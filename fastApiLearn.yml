@@ -1,0 +1,7 @@
+name: fastApiLearn
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - uvicorn
+prefix: C:\Users\11036\.conda\envs\fastApiLearn
